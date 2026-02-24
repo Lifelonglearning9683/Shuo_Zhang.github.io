@@ -22,7 +22,7 @@ Currently, I am also investigating the integration of **Magnetic Weyl Semimetals
 
 * **Thermal Radiation Photonics:** Tailoring directional, spectrally selective, and dynamically tunable thermal emitters/absorbers.
 * **Metasurfaces & Nanophotonics:** Development of polarization-independent and wide-angle-tailored MIR devices.
-* **Topological & Non-Hermitian Photonics:** Utilizing Magnetic Weyl Semimetals for unidirectional and asymmetric radiation mechanisms.
+* **Topological & Non-Hermitian Photonics:** Utilizing Magnetic Weyl Semimetals for unidirectional and nonreciprocal radiation mechanisms.
 * **Advanced Laser Spectroscopy:** Architecture of ultrafast and VUV laser infrastructures for material and device characterization.
 
 ---
