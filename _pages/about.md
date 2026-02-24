@@ -10,7 +10,7 @@ author_profile: true
 
 I am a Ph.D. student at the **School of Integrated Circuits, Shanghai Jiao Tong University (SJTU)**, where I am honored to be advised by [**Prof. Zi Jing Wong**](https://scholar.google.com/citations?user=PH7U4OsAAAAJ&hl=zh-CN&oi=ao) within the [**Zlab**](https://scholar.google.com/citations?user=PH7U4OsAAAAJ&hl=zh-CN&oi=ao). My research is situated at the cutting edge of **Metasurface** and **Mid-infrared (MIR) Photonics**, focusing on the advanced manipulation of thermal radiation.
 
-My doctoral work in **MIR Thermal Radiation Photonics** explores the fundamental physics and engineering of thermal emission. I specialize in the design and realization of metasurfaces that achieve multi-dimensional control over thermal radiation, including **directional emission, dynamic modulation, polarization independence, broadband/wide-angle responses**, and **unidirectional (asymmetric) radiation**.
+My doctoral work in **MIR Thermal Radiation Photonics** explores the fundamental physics and engineering of thermal emission. I specialize in the design and realization of metasurfaces that achieve multi-dimensional control over thermal radiation, including **directional emission, dynamic modulation, polarization independence, broadband wavelength, wide-angle responses, unidirectional (asymmetric)**, and **nonreciprocal radiation**.
 
 I possess "full-stack" experimental and computational capabilities. I have independently engineered high-precision **ultrafast laser systems** and **Vacuum Ultraviolet (VUV) coherent sources**. My expertise spans the entire research pipeline—from **ab initio simulation** and **cleanroom nanofabrication** to the development of automated characterization platforms for MIR optoelectronic devices.
 
