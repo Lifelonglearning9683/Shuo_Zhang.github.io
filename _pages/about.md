@@ -8,38 +8,38 @@ author_profile: true
 
 # Biography
 
-I am a Ph.D. student at the **School of Integrated Circuits, Shanghai Jiao Tong University (SJTU)**. My research is situated at the cutting edge of **Micro-nanophotonics** and **Mid-infrared (MIR) Photonics**, with a specific focus on the tailoring of thermal radiation through advanced metasurfaces.
+I am a Ph.D. student at the **School of Integrated Circuits, Shanghai Jiao Tong University (SJTU)**, where I am honored to be advised by [**Prof. Zi Jing Wong**](https://scholar.google.com/citations?user=PH7U4OsAAAAJ&hl=zh-CN&oi=ao) within the [**Zlab**](https://scholar.google.com/citations?user=PH7U4OsAAAAJ&hl=zh-CN&oi=ao). My research is situated at the cutting edge of **Metasurface** and **Mid-infrared (MIR) Photonics**, focusing on the advanced manipulation of thermal radiation.
 
-My doctoral research investigates **MIR Thermal Radiation Photonics**, where I explore the fundamental limits and practical applications of thermal emission control. I specialize in designing and realizing metasurfaces that achieve multi-dimensional manipulation of thermal radiation, including **directional emission, dynamic modulation, polarization independence, broadband/wide-angle responses, unidirectional (asymmetric)**, and **nonreciprocal radiation**.
+My doctoral work in **MIR Thermal Radiation Photonics** explores the fundamental physics and engineering of thermal emission. I specialize in the design and realization of metasurfaces that achieve multi-dimensional control over thermal radiation, including **directional emission, dynamic modulation, polarization independence, broadband/wide-angle responses**, and **unidirectional (asymmetric) radiation**.
 
-Beyond theoretical design, I possess "full-stack" experimental capabilities. I have independently engineered high-precision **ultrafast laser systems** and **Vacuum Ultraviolet (VUV) coherent sources**, and I am proficient in the entire device pipeline—from **ab initio simulation** and **cleanroom nanofabrication** to the development of automated characterization platforms for MIR optoelectronic devices.
+I possess "full-stack" experimental and computational capabilities. I have independently engineered high-precision **ultrafast laser systems** and **Vacuum Ultraviolet (VUV) coherent sources**. My expertise spans the entire research pipeline—from **ab initio simulation** and **cleanroom nanofabrication** to the development of automated characterization platforms for MIR optoelectronic devices.
 
-Currently, I am also investigating the integration of **Magnetic Weyl Semimetals** into thermal photonic systems to exploit their unique topological properties for novel radiative heat transfer control.
+Currently, I am also investigating the integration of **Magnetic Weyl Semimetals** into thermal photonic systems to leverage their unique topological properties for next-generation radiative heat transfer control.
 
 ---
 
 # Research Interests
 
-* **Thermal Radiation Photonics:** Engineering of directional, spectrally selective, and dynamically tunable thermal emitters/absorbers.
-* **Metasurfaces & Nanophotonics:** Polarization-independent and wide-angle-tailored MIR photonic devices.
-* **Topological & Non-Hermitian Photonics:** Utilizing Magnetic Weyl Semimetals and asymmetric mechanisms for unidirectional radiation.
-* **Advanced Optical Systems:** Development of ultrafast and VUV laser infrastructures for material and device spectroscopy.
+* **Thermal Radiation Photonics:** Tailoring directional, spectrally selective, and dynamically tunable thermal emitters/absorbers.
+* **Metasurfaces & Nanophotonics:** Development of polarization-independent and wide-angle-tailored MIR devices.
+* **Topological & Non-Hermitian Photonics:** Utilizing Magnetic Weyl Semimetals for unidirectional and asymmetric radiation mechanisms.
+* **Advanced Laser Spectroscopy:** Architecture of ultrafast and VUV laser infrastructures for material and device characterization.
 
 ---
 
 # Technical Skills
 
 ### **Optical Engineering & Instrumentation**
-* **System Architecture:** Design and integration of **Femtosecond/Picosecond ultrafast systems** and **VUV laser lines**.
-* **Automation:** Development of high-throughput automated data acquisition (DAQ) systems using **Python/LabVIEW**.
-* **Spectroscopy:** Expertise in MIR characterization, FTIR, and custom-built emission measurement setups.
+* **System Architecture:** Expert design and alignment of **Femtosecond/Picosecond ultrafast systems** and **VUV laser lines**.
+* **Automation:** High-throughput automated data acquisition (DAQ) systems developed via **Python/LabVIEW**.
+* **Spectroscopy:** Expertise in MIR characterization, FTIR, and custom-built thermal emission measurement setups.
 
 ### **Numerical Modeling & Design**
-* **Full-wave Simulation:** Proficiency in **COMSOL Multiphysics**, **Lumerical (FDTD/MODE)**, and **Reticolo (RCWA)**.
-* **Optimization:** Algorithm-driven design for broadband and polarization-insensitive metasurfaces using **Python** and **MATLAB**.
+* **Electromagnetic Simulation:** Mastery of **COMSOL Multiphysics**, **Lumerical (FDTD/MODE)**, and **Reticolo (RCWA)**.
+* **Optimization:** Algorithm-driven design for broadband and polarization-insensitive metasurfaces.
 
 ### **Nanofabrication**
-* **Cleanroom Expertise:** Master of **Electron Beam Lithography (EBL)**, **ICP-RIE etching**, and various thin-film deposition techniques for high-performance MIR devices.
+* **Cleanroom Proficiency:** Extensive experience in **Electron Beam Lithography (EBL)**, **ICP-RIE etching**, and thin-film deposition (PVD/CVD) for MIR device realization.
 
 ---
 
